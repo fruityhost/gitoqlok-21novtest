@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "b5f80224-3940-480a-b73a-21a2bd9a2f7d",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "name",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Returns",
+  "qIsScriptCreated": true
+}
