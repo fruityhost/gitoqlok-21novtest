@@ -56,7 +56,7 @@ LOAD
 FROM [lib://DataFiles/Sample - Superstore.xls]
 (biff, embedded labels, table is Returns);
 
-
+//this is the script i am writing as not the owner of the app
 
 LOAD
     КодЗаказа,
